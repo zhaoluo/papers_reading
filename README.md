@@ -20,3 +20,5 @@ papers sharing
     1. [Auxiliary Signal-Guided Knowledge Encoder-Decoder for Medical Report Generation](https://arxiv.org/pdf/2006.03744.pdf)
     2. [Semi-supervised and Unsupervised Methods for Heart Sounds Classification  in Restricted Data Environments](https://arxiv.org/abs/2006.02610)
     3. 
+  # Backbone
+    1. [Channel Equilibrium Networks for Learning Deep Representation](https://arxiv.org/pdf/2003.00214.pdf)(icml2020)
