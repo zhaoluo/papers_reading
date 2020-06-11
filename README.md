@@ -20,15 +20,16 @@ Share the papers I read.
 
 ### Writer Identification
 1. [Encoding Pathlet and SIFT Features with Bagged VLAD for Historical Writer Identification](https://ieeexplore.ieee.org/abstract/document/9083956),[sharing](https://mp.weixin.qq.com/s/3EVA36rpGCEad2BTW5IZbA)
+2. [DeepSign: Deep On-Line Signature Verification](https://github.com/BiDAlab/DeepSignDB)
 
 ### Others
 1. [Continual Representation Learning for Biometric Identification](https://arxiv.org/pdf/2006.04455.pdf)
 
 ## Tracking
 
-### Object Detection
+## Object Detection
 
-### Activity Recognition
+## Activity Recognition
 1. [IMUTube: Automatic extraction of virtual on-body accelerometry from video for human activity recognition](https://arxiv.org/pdf/2006.05675.pdf)
 
 # Design
