@@ -9,12 +9,12 @@ papers sharing
 #### Liveness Detection
 1. [Look Locally Infer Globally: A Generalizable Face Anti-Spoofing Approach](https://arxiv.org/abs/2006.02834)
 #### Face Representation
-1. [Circle Loss: A Unified Perspective of Pair Similarity Optimization](https://arxiv.org/pdf/2002.10857.pdf)(cvpr2020 oral)[code](https://github.com/MegEngine,https://github.com/TinyZeaMays/CircleLoss)
+1. [Circle Loss: A Unified Perspective of Pair Similarity Optimization](https://arxiv.org/pdf/2002.10857.pdf)(cvpr2020 oral),[code](https://github.com/MegEngine,https://github.com/TinyZeaMays/CircleLoss)
 #### Landmark Detection
 1. [Multi-spectral Facial Landmark Detection](https://arxiv.org/pdf/2006.05196.pdf)
 
 ### Writer Identification
-1. [Encoding Pathlet and SIFT Features with Bagged VLAD for Historical Writer Identification](https://ieeexplore.ieee.org/abstract/document/9083956)[sharing](https://mp.weixin.qq.com/s/3EVA36rpGCEad2BTW5IZbA)
+1. [Encoding Pathlet and SIFT Features with Bagged VLAD for Historical Writer Identification](https://ieeexplore.ieee.org/abstract/document/9083956),[sharing](https://mp.weixin.qq.com/s/3EVA36rpGCEad2BTW5IZbA)
 
 ### Others
 1. [Continual Representation Learning for Biometric Identification](https://arxiv.org/pdf/2006.04455.pdf)
