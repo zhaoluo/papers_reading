@@ -1,5 +1,5 @@
 # papers_reading
-papers sharing
+Share the papers I read.
 
 # Computer Vision
 
