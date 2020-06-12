@@ -22,6 +22,7 @@ Share the papers I read.
 1. [Encoding Pathlet and SIFT Features with Bagged VLAD for Historical Writer Identification](https://ieeexplore.ieee.org/abstract/document/9083956),[sharing](https://mp.weixin.qq.com/s/3EVA36rpGCEad2BTW5IZbA)
 2. [DeepSign: Deep On-Line Signature Verification](https://github.com/BiDAlab/DeepSignDB)
 3. [Sequential motif profiles and topological plots for offline signature verification](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zois_Sequential_Motif_Profiles_and_Topological_Plots_for_Offline_Signature_Verification_CVPR_2020_paper.pdf), cvpr2020
+4. [FCN+RL: A Fully Convolutional Network followed by Refinement Layers to Offline Handwritten Signature Segmentation](https://arxiv.org/pdf/2005.14229.pdf)
 
 ### Others
 1. [Continual Representation Learning for Biometric Identification](https://arxiv.org/pdf/2006.04455.pdf)
